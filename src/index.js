@@ -1,4 +1,4 @@
-const { niceLogger } = require("./niceLogger");
+const { niceLogger, messageRepeater } = require("./niceLogger");
 
 //**other way to import modules */
 // import the file
