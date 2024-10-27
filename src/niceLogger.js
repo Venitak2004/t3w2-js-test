@@ -1,6 +1,6 @@
 function niceLogger(){
     console.log("Hello World!");
-    return "Hellow World.";
+    return "Hello World.";
 }
 
 function sampleTest(){
